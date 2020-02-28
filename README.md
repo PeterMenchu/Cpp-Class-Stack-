@@ -1,2 +1,2 @@
-# Cpp-Stack-Class
-Stack class and implantation. Class includes the data structure and stack functionality, and a main implementation is included to test the class.
+# C++ Stack 
+Stack class that includes the data structure and stack functionality, along with a main implementation to test the class functionality.
